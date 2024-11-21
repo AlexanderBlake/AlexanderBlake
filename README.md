@@ -1,2 +1,2 @@
-![Language Stats Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderBlake&hide_progress=true&langs_count=8&theme=dark#gh-dark-mode-only)
-![Language Stats Light](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderBlake&hide_progress=true&langs_count=8&theme=default#gh-light-mode-only)
+[![Alexander's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderBlake&hide_progress=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AlexanderBlake/github-readme-stats#gh-dark-mode-only)
+[![Alexander's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderBlake&hide_progress=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AlexanderBlake/github-readme-stats#gh-light-mode-only)
